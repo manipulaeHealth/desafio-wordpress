@@ -31,26 +31,31 @@ Você ficou responsável por planejar, criar estilo e desenvolver esta página w
   - <b>1º Escolha domínio com terminação "wordpress.com"</b> 
   <br>
   <br>
+
   ![Preview](github/preview1.png)
 
   - <b>2º Escolha seguir plano gratuíto</b> 
   <br>
   <br>
+
   ![Preview](github/preview2.png)
 
   - <b>3º Publique sua Landing Page</b> 
   <br>
   <br>
+
   ![Preview](github/preview3.png)
 
   - <b>4º Ao final da página siga com domínio gratuíto</b> 
   <br>
   <br>
+
   ![Preview](github/preview4.png)
 
   - <b>5º Escolha seguir plano gratuíto</b> 
   <br>
   <br>
+  
   ![Preview](github/preview5.png)
 
   - <b>Pronto! ✅ nos envie o link do seu domínio para avaliarmos seu trabalho.</b> 
