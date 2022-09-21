@@ -31,6 +31,7 @@ Você ficou responsável por planejar, criar estilo e desenvolver esta página w
   - <b>1º Escolha domínio com terminação "wordpress.com"</b> 
   <br>
   <br>
+  ![Preview0](images/preview1.png)
   ![Preview1](/images/preview1.png)
 
   - <b>2º Escolha seguir plano gratuíto</b> 
